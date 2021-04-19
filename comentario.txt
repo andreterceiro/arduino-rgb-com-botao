@@ -1,0 +1,1 @@
+Eu não vou fazer um arquivo do Fritzing. Este projeto é bem simples e é feito com um kit da Eletrogate, como este https://www.eletrogate.com/kit-com-37-sensores-para-arduino-com-cx.-organizadora . Veja com eles por favor o kit correto. Não vi o push button neste, mas eu posso simṕlesmente não ter visto.
